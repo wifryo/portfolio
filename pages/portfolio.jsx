@@ -17,21 +17,17 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              Please witness the grandeur of my development efforts thus far.
+              Breaks every 20 minutes are recommended for those of weak
+              constitution (duo to excessive grandiosity).
             </p>
 
             <div className="portfolio-wrapper">
               <div className="portfolio-item">
-                <img src="/chitchat.png" className="portfolio-image" alt="" />
+                <img src="/sandwich.jpg" className="portfolio-image" alt="" />
 
-                <h4 className="portfolio-name">Chat App Exploration</h4>
-                <div className="portfolio-category">Mobile Dev</div>
-              </div>
-              <div className="portfolio-item">
-                <img src="/kajian.jpg" className="portfolio-image" alt="" />
-
-                <h4 className="portfolio-name">kajian App</h4>
-                <div className="portfolio-category">Mobile Dev</div>
+                <h4 className="portfolio-name">Successfully Eaten Sandwich</h4>
+                <div className="portfolio-category">Snacks</div>
               </div>
             </div>
           </div>
